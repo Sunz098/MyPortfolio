@@ -13,7 +13,7 @@ const Intro = () =>{
                 I'm ready to learn new things and develop myself. <br/>
                 Thank you.
                 </p>
-                <a href="https://www.facebook.com/tawan.surina"> <button className="btn"> My resume</button></a>
+                <a href="https://raw.githubusercontent.com/Sunz098/MyPortfolio/master/src/assets/Resume/My%20resume_page-0001.jpg"> <button className="btn"> My resume</button></a>
             </div>
             <img className="bg" src={bg}/>
        </section>
