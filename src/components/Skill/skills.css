@@ -51,12 +51,6 @@
     font-weight: 200;
 }
 
-@media  and (max-width:720px) {
-    .skillBarText>p{
-        font: size 3vw;
-    }
-
-}
 
 @media screen and (max-width:480px) {
     .skillBarText>p{

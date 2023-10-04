@@ -23,63 +23,55 @@ const Skills = () =>{
                     <img src={PythonIc} className="skillBarImg" alt="uidesign"/>
                     <div className="skillBarText">
                         <h2>Python</h2>
-                        <p>This is a demo text, you can write your own </p>
+                        
                     </div>
                 </div>
                 <div className="skillBar">
                     <img src={HtmlIc} className="skillBarImg" alt="webdesign"/>
                     <div className="skillBarText">
                         <h2>HTML</h2>
-                        <p>This is a demo text, you can write your own </p>
                     </div>
                 </div>
                 <div className="skillBar">
                     <img src={CssIc} className="skillBarImg" alt="appdesign"/>
                     <div className="skillBarText">
                         <h2>Css</h2>
-                        <p>This is a demo text, you can write your own </p>
                     </div>
                 </div>
                 <div className="skillBar">
                     <img src={JsIc} className="skillBarImg" alt="appdesign"/>
                     <div className="skillBarText">
                         <h2>JavaScript</h2>
-                        <p>This is a demo text, you can write your own </p>
                     </div>
                 </div>
                 <div className="skillBar">
                     <img src={javaIc} className="skillBarImg" alt="appdesign"/>
                     <div className="skillBarText">
                         <h2>Java</h2>
-                        <p>This is a demo text, you can write your own </p>
                     </div>
                 </div>
                 <div className="skillBar">
                     <img src={VueIc} className="skillBarImg" alt="appdesign"/>
                     <div className="skillBarText">
                         <h2>Vue Js</h2>
-                        <p>This is a demo text, you can write your own </p>
                     </div>
                 </div>
                 <div className="skillBar">
                     <img src={BootspIc} className="skillBarImg" alt="appdesign"/>
                     <div className="skillBarText">
                         <h2>BootStrap</h2>
-                        <p>This is a demo text, you can write your own </p>
                     </div>
                 </div>
                 <div className="skillBar">
                     <img src={ReactIc} className="skillBarImg" alt="appdesign"/>
                     <div className="skillBarText">
                         <h2>React Js</h2>
-                        <p>This is a demo text, you can write your own </p>
                     </div>
                 </div>
                 <div className="skillBar">
                     <img src={ReactNativeIc} className="skillBarImg" alt="appdesign"/>
                     <div className="skillBarText">
                         <h2>ReactNative</h2>
-                        <p>This is a demo text, you can write your own </p>
                     </div>
                 </div>
                
