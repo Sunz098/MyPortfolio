@@ -18,10 +18,6 @@ const Works = ()=> {
                 <p>ได้รับรางวัลเหรียญเรียนดี 2565</p>
                 </div>
 
-                <div>
-                <a href="https://reliable-starship-1e812e.netlify.app/"><img src={Portfilio2} className="workImg2"/></a>
-                <p>ทำโปรเจ็คเกี่ยวกับการใช้ Api</p>
-                </div>
 
                 <div>
                    <a href="https://subtle-banoffee-318220.netlify.app/"><img src={Portfilio3} className="workImg2"/></a> 
